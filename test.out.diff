@@ -1,0 +1,34 @@
+329,330c329,330
+< Choose from: server, set, save
+< Choices were: get, quit, wait, server, help, put, exit, write, list, set, use, save
+---
+> Choose from: server, save, set
+> Choices were: wait, quit, help, get, server, exit, write, save, put, list, set, use
+383,384c383,384
+< Choose from: server, set, save
+< Choices were: get, quit, wait, server, help, put, exit, write, list, set, use, save
+---
+> Choose from: server, save, set
+> Choices were: wait, quit, help, get, server, exit, write, save, put, list, set, use
+402c402
+< Choices were: get, quit, wait, server, help, put, exit, write, list, set, use, save
+---
+> Choices were: wait, quit, help, get, server, exit, write, save, put, list, set, use
+467,468c467,468
+< Choose from: server, set, save
+< Choices were: get, quit, wait, server, help, put, exit, write, list, set, use, save
+---
+> Choose from: server, save, set
+> Choices were: wait, quit, help, get, server, exit, write, save, put, list, set, use
+486c486
+< Choices were: get, quit, wait, server, help, put, exit, write, list, set, use, save
+---
+> Choices were: wait, quit, help, get, server, exit, write, save, put, list, set, use
+552c552
+< Choices were: get, quit, wait, server, help, put, exit, write, list, set, use, save
+---
+> Choices were: wait, quit, help, get, server, exit, write, save, put, list, set, use
+606c606
+< Choices were: get, quit, wait, server, help, put, exit, write, list, set, use, save
+---
+> Choices were: wait, quit, help, get, server, exit, write, save, put, list, set, use
